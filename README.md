@@ -7,7 +7,7 @@
   
 
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -46,10 +46,12 @@ const Rafs = {
             frontEnd: {
                 Javascript: ['Vanilla JS'],
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['Flexbox', 'styled-components'],
+                CSS: ['Flexbox', 'Styled-components'],
             },
             backEnd: {
-                Javascript: ['Node.js', '']
+                Javascript: ['Node.js'],
+                python: ['Flask', 'Class', 'Object notation'],
+                SQLServer: ['DDL', 'DML', 'Subquery', 'Functions']
             },
         },
     }
