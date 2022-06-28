@@ -26,7 +26,7 @@
 </div>
 
 <details>
-  <summary align="center"> More about me</summary>
+  <summary align="center"> >>>>>>>> More about me <<<<<<<< </summary>
 <div align="left">
  
 ``` js
