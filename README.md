@@ -21,11 +21,13 @@
   <a href="https://www.linkedin.com/in/rafael-oliveira-santos20/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
+![Snake animation](https://github.com/RafaaaOliver/RafaaaOliver/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 
 
 <details>
-  <summary align="left"> More about me </summary>
+  <summary align="center"> More about me </summary>
 <div align="left">
  
 ``` js
@@ -58,7 +60,3 @@ const Rafs = {
 ```
   </div>
 </details>
-
-![Snake animation](https://github.com/RafaaaOliver/RafaaaOliver/blob/output/github-contribution-grid-snake.svg)
-
-</div>
