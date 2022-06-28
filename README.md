@@ -54,5 +54,5 @@
   ```
     </div>
   </details>
-</div>
    ![Snake animation](https://github.com/RafaaaOliver/RafaaaOliver/blob/output/github-contribution-grid-snake.svg)
+</div>
