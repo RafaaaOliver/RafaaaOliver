@@ -8,11 +8,11 @@
 
   
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rafael-Js" height="30" width="30" src="https://github.com/RafaaaOliver/RafaaaOliver/blob/main/img/JS.png">
-  <img align="center" alt="Rafael-Python" height="30" width="30" src="https://github.com/RafaaaOliver/RafaaaOliver/blob/main/img/python.png">
-  <img align="center" alt="Rafael-CSS" height="30" width="30" src="https://github.com/RafaaaOliver/RafaaaOliver/blob/main/img/MySQL.png">
-  <img align="center" alt="Rafael-HTML" height="30" width="30" src="https://github.com/RafaaaOliver/RafaaaOliver/blob/main/img/HTML5%20logo.png">
-  <img align="center" alt="Rafael-CSS" height="38" width="38" src="https://github.com/RafaaaOliver/RafaaaOliver/blob/main/img/CSS3%20logo.png">
+  <img align="center" alt="Rafael-Js" height="40" width="40" src="https://github.com/RafaaaOliver/RafaaaOliver/blob/main/img/JS.png">
+  <img align="center" alt="Rafael-Python" height="40" width="40" src="https://github.com/RafaaaOliver/RafaaaOliver/blob/main/img/python.png">
+  <img align="center" alt="Rafael-CSS" height="40" width="40" src="https://github.com/RafaaaOliver/RafaaaOliver/blob/main/img/MySQL.png">
+  <img align="center" alt="Rafael-HTML" height="40" width="40" src="https://github.com/RafaaaOliver/RafaaaOliver/blob/main/img/HTML5%20logo.png">
+  <img align="center" alt="Rafael-CSS" height="48" width="48" src="https://github.com/RafaaaOliver/RafaaaOliver/blob/main/img/CSS3%20logo.png">
 </div>
 
 ##
