@@ -39,12 +39,12 @@ const Rafs = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['Vanilla JS'],
+                Javascript: ['Vanilla JS', 'Netsuite', 'DOM'],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['Flexbox', 'Styled-components'],
             },
             backEnd: {
-                Javascript: ['Node.js'],
+                Javascript: ['Node.js', 'Netsuite'],
                 python: ['Flask', 'Class', 'Object notation'],
                 SQLServer: ['DDL', 'DML', 'Subquery', 'Functions']
             },
