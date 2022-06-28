@@ -7,7 +7,7 @@
   
 <details>
   <summary> More about me</summary>
-<div align="center">
+<div align="left">
  
 ``` js
 const Rafs = {
