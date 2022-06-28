@@ -5,6 +5,39 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaaaOliver&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+<details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const Rafs = {
+    personal: {
+        fullName: 'Rafael Oliveira',
+        birthDate: '29-01-2002',
+        pronouns: 'he' | 'his',
+        interests: ['music', 'games', 'language learning', 'anime'],
+        motivation: [
+            'Help improving diversity and inclusion',
+            'Making life easier and smarter through tech',
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['Vanilla JS'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['Flexbox', 'styled-components'],
+            },
+            backEnd: {
+                Javascript: ['Node.js', '']
+            },
+        },
+    }
+}
+```
+  </div>
+</details>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
