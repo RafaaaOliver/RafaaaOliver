@@ -1,6 +1,6 @@
 ## Hi, I'm Rafael!, NetSuite developer.
 <div align="center">
-  <img height="170em" src="https://github.com/RafaaaOliver/RafaaaOliver/blob/main/img/Gif%20Github.gif"/>
+  <img height="190em" src="https://github.com/RafaaaOliver/RafaaaOliver/blob/main/img/Gif%20Github.gif"/>
   <a href="https://github.com/RafaaaOliver"> </a>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaaaOliver&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div>
