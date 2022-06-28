@@ -1,4 +1,4 @@
-## Hi, I'm Rafael!, NetSuite developer.
+## Hi, I'm Rafael!, Full-stack developer.
 <div align="center">
   <img height="190em" src="https://github.com/RafaaaOliver/RafaaaOliver/blob/main/img/Gif%20Github.gif"/>
   <a href="https://github.com/RafaaaOliver"> </a>
