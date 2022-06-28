@@ -1,7 +1,9 @@
 ## Hi, I'm Rafael!, NetSuite developer.
-<div align="center">
+<div>
+  <div align="left">
   <a href="https://github.com/RafaaaOliver"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaaaOliver&layout=compact&langs_count=7&theme=tokyonight"/> </a>
+  </div>
 
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
