@@ -1,5 +1,5 @@
 ## Hi, I'm Rafael!, NetSuite developer.
-<div align="center">
+<div align="center" flex = "auto">
   <a href="https://github.com/RafaaaOliver">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaaaOliver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaaaOliver&layout=compact&langs_count=7&theme=tokyonight"/>
